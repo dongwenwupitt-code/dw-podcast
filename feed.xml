@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DW 日更</title>
+    <link>https://dongwenwupitt-code.github.io/dw-podcast/feed.xml</link>
+    <atom:link href="https://dongwenwupitt-code.github.io/dw-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>每日自动更新的音频</description>
+    <language>zh-cn</language>
+    <itunes:author>Dongwen</itunes:author>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:explicit>no</itunes:explicit>
+  </channel>
+</rss>
